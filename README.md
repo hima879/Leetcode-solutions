@@ -1,4 +1,6 @@
 # Leetcode-solutions
+
+📌 Repository Description
 This repository contains my LeetCode problem solutions, written mainly in C++ (and sometimes C). It’s a collection of solved coding challenges covering topics like arrays, strings, linked lists, stacks, queues, recursion, dynamic programming, and algorithms.
 
 The purpose of this repository is to practice problem-solving skills, improve coding efficiency, and prepare for technical interviews while tracking my progress on LeetCode.
