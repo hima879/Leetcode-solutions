@@ -8,5 +8,3 @@ LEFT JOIN Orders o
 -- Filter to only those customers who do NOT have any matching order
 -- (If no order exists, o.customerId will be NULL)
 WHERE o.customerId IS NULL;
-
-
