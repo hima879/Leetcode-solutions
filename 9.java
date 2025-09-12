@@ -1,5 +1,4 @@
 class Solution {
-class Solution {
 
     // Helper method to check if a given string is a palindrome
     private static boolean checkPalindrome(String num){
