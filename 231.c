@@ -13,4 +13,3 @@ bool isPowerOfTwo(int n) {
     // Otherwise, it had other factors
     return n == 1;
 }
-
